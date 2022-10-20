@@ -1,0 +1,66 @@
+.description {
+    padding: 15px;
+}
+
+.descriptionThumb {
+    display: flex;
+    margin-top: 15px;
+}
+.descriptionThumbText {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 15px;
+    width: 100%;
+    display: block;
+    margin-left: 40px;
+}
+
+.descriptionImage {
+    height: 300px;
+    border-radius: 10px;
+}
+
+.descriptionThumbTitle {
+    margin-top: 0;
+    color: #0D803E;
+}
+
+.descriptionText {
+    margin-top: 0;
+}
+
+.genreList {
+    margin-bottom: 0;
+}
+
+.infoThumb {
+    padding: 15px;
+    margin:  0 15px;
+    border-radius: 10px;
+    background-color: #fff;
+    margin-bottom: 15px;
+}
+
+.infoLinks {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    margin-top: 0;
+}
+
+.infoLink {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 10px;
+    color: #000;
+    text-decoration: none;
+    font-size: 20px;    
+}
+
+.active {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 10px;
+    color: #0D803E;
+    font-size: 20px;
+}

@@ -1,0 +1,28 @@
+.title {
+    padding-left: 15px;
+    color: #0D803E;
+}
+
+.castList {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 15px;
+    gap: 30px 80px;
+    flex-wrap: wrap;
+    list-style: none;
+}
+
+.castListItem {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+
+    width: 250px;
+    min-height: 340px;
+    transform: scale(1);
+    padding: 25px 10px;
+    border-radius: 10px;
+    background-color: #fff;
+}
